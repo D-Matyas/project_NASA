@@ -1,1 +1,1 @@
-print('sulipy')
+print('sulipy a legjobb')
