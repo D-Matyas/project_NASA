@@ -1,1 +1,0 @@
-print('sulipy a legjobb')
