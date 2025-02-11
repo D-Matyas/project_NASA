@@ -24,7 +24,7 @@ def count_most_common(months):
           f'{round((most_common[0][1] / len(months)) * 100, 1)}%-os arányban')
     print(f'A második leggyakrabban a(z) {most_common[1][0]}. hónap fordul elő '
           f'{round((most_common[1][1] / len(months)) * 100, 1)}%-os arányban')
-    print(f'A harmadik leggyakrabban a(z) {most_common[2][0]}. hónap fordul elő '
+    print(f'A harmadik leggyakrabban a() {most_common[2][0]}. hónap fordul elő '
           f'{round((most_common[2][1] / len(months)) * 100, 1)}%-os arányban')
 
 
